@@ -1,16 +1,11 @@
-# fakestore
+# Fake Store 
 
-A new Flutter project.
+A simple Flutter app that fetches product data from a fake store API and displays it in a grid view.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetches product data from a fake store API.
+- Displays product information in a grid view.
+- Uses the `provider` package for state management.
+- Fetches data using the `dio` package.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
